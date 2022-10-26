@@ -2,7 +2,7 @@
 //10-25-2022
 //Madlib - Endpoint
 //Create a controll with an enpoint for Madlib function that takes input from user (words) and uses them in a story and returns the story with their words included.
-//Peer Review by; 
+//Peer Review by Madeline Gowan; The code runs as it should based on what we've learned so far. I also like the addition of data validation, how it says "invalid" if you enter a number. 
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
